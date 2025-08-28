@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onkar Patil</h1>
 <h3 align="center">A passionate C++ developer from India.</h3>
 
-- 🔭 I’m currently working on **LLM Project on .csv files**
+- 🔭 I’m currently working on **Multi-threaded file downloader using C++**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dd2dd2.webflow.io/](https://portfolio-dd2dd2.webflow.io/)
 
