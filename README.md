@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Multi-threaded file downloader using C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/spacedragonx?tab=repositories] (https://github.com/spacedragonx?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/spacedragonx?tab=repositories]
 - 💬 Ask me about : **C++ ,Machine Learning,React.js**
 
 - 📫 How to reach me **onkarpatil729@gmail.com**
