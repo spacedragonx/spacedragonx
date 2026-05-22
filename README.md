@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onkar Patil</h1>
-<h3 align="center">A passionate C++ developer from India.</h3>
+<h3 align="center">A passionate Machine Learning developer from India.</h3>
 
-- 🔭 I’m currently working on **Multi-threaded file downloader using C++**
+- 🔭 I’m currently working on **Auto PR Reviewer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spacedragonx?tab=repositories]
 - 💬 Ask me about : **C++ ,Machine Learning,React.js**
